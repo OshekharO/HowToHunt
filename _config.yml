@@ -1,1 +1,5 @@
-theme: garth-jekyll-theme
+title: How To Hunt
+description: Collection of methodology and test case for various web vulnerabilities.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-leap-day
